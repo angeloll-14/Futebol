@@ -1,4 +1,3 @@
-## Menu do site
+## Rodape
 
-O site apresenta uma navegação simples
-para facilitar a utilização.
+Projeto feito por Angelo Diaz
