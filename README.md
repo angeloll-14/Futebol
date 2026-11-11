@@ -7,3 +7,10 @@ Aceder ao repositório no GitHub.
 Consultar os ficheiros disponíveis.
 Abrir o ficheiro index.html para visualizar o conteúdo do projeto.
 Explorar as informações sobre o mundo do futebol.
+
+
+Autor
+Angelo Diaz
+
+Licença
+Este projeto utiliza a licença MIT. Consultar o ficheiro LICENSE para mais informaçao
