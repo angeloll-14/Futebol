@@ -10,7 +10,7 @@ Explorar as informações sobre o mundo do futebol.
 
 
 Autor
-Angelo Diaz
+Angelo Diaz 10 TDS
 
 Licença
 Este projeto utiliza a licença MIT. Consultar o ficheiro LICENSE para mais informaçao
