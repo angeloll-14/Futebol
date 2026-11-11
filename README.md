@@ -1,3 +1,3 @@
-## Rodape
+## Futbol
 
-Projeto feito por Angelo Diaz
+Projeto feito por Angelo Diaz para aprender como utilizar o GitHub e as suas ferramentas.
